@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Nabiel</h1>
-<h3 align="center">Undergraduated Informatics Engginering in Cybersecurity</h3>
+<h1 align="center">Hi, I'm Nayaka</h1>
+<h3 align="center">Undergraduate in Informatics Engineering, focusing on Cybersecurity.Currently building my repo with the help of AI and developing it into a real SOC project during my internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasbara&label=Profile%20views&color=0e75b6&style=flat" alt="prasbara" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Soc Analyst, Pentest, Cyber Forensic**
+- 🌱 I’m currently learning **Soc Analyst, Pentest, Cyber Forensic, anything about cybersec**
 
 - ⚡ Fun fact **live, love, epoch**
 
