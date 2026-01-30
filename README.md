@@ -4,110 +4,126 @@ Aspiring SOC Analyst | Cybersecurity Enthusiast | Informatics Engineering Underg
 </h3>
 
 <p align="center">
-Currently building a Security Operations Center (SOC) project with the help of AI and developing it into a real-world implementation during my internship.
+Building a real-world Security Operations Center (SOC) project powered by AI during my internship.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasbara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prasbara&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Informatics Engineering Undergraduate** at Universitas Islam Sultan Agung (UNISSULA)
-- 🔐 Strong interest in **Cybersecurity**, especially:
-  - Security Operations Center (SOC)
-  - Incident Response & Digital Forensics
-  - Penetration Testing & Threat Hunting
-  - Risk Assessment & Security Analysis
-- 🤖 Experienced in applying **Machine Learning & AI** for security and social media intelligence
-- 📸 Creative background as a **freelance photographer & videographer**, strengthening problem-solving and communication skills
+- 🎓 Informatics Engineering Undergraduate — **UNISSULA**
+- 🔐 Focused on **Cybersecurity & SOC Operations**
+- 🛡️ Hands-on experience in **Incident Analysis, Pentesting, and Risk Assessment**
+- 🤖 Applying **Machine Learning & AI** for security and intelligence use cases
+- 📸 Creative background (Photography & Videography) → strong analytical & communication skills
 
 > *Live, love, epoch.*
 
 ---
 
-## 🛡️ Cybersecurity Focus Areas
+## 🛡️ Cybersecurity & SOC Skills
 
-- SOC Incident Analysis & Monitoring  
+### 🔹 Blue Team / SOC
+- Security Operations Center (SOC) Workflow  
+- Incident Detection & Analysis  
 - MITRE ATT&CK Mapping  
-- Vulnerability Assessment & Penetration Testing  
-- Digital Forensics & Incident Response  
+- Indicators of Compromise (IOC) Analysis  
+- Incident Response & Digital Forensics  
+
+### 🔹 Offensive Security
+- Penetration Testing (Manual & Automated)  
+- Vulnerability Assessment  
+- Threat Hunting  
+- Risk Assessment  
+
+### 🔹 Intelligence & Analysis
 - Open Source Intelligence (OSINT)  
-- AI for Security & Threat Intelligence  
+- Social Media Intelligence  
+- Log Analysis & Security Reporting  
+
+---
+
+## 🤖 AI & Machine Learning for Security
+
+- Sentiment Analysis & Text Classification  
+- Data Preprocessing & Feature Engineering  
+- Model Training & Evaluation  
+- Security & Intelligence Use Cases  
+
+**Tools & Frameworks:**
+- Python, Scikit-learn
+- TensorFlow, PyTorch
+- OpenCV
 
 ---
 
 ## 💼 Experience Highlights
 
-**🔹 AI Engineer — Diskominfo Kota Semarang**  
-Developed and optimized machine learning models for sentiment analysis on social media data, including preprocessing, model fine-tuning, and deployment in analytics workflows.
+**AI Engineer — Diskominfo Kota Semarang**  
+Developed ML-based sentiment analysis systems for social media intelligence, including data pipelines, model tuning, and deployment.
 
-**🔹 Pentester — Indosat Ooredoo Hutchison**  
-Conducted manual and automated penetration testing, identified vulnerabilities, documented findings, and proposed remediation strategies to improve security posture.
+**Pentester — Indosat Ooredoo Hutchison**  
+Performed vulnerability assessments, penetration testing, documentation, and remediation recommendations.
 
-**🔹 Cybersecurity Virtual Intern — Datacom (New Zealand)**  
-Performed SOC-style incident analysis, ransomware investigation, MITRE ATT&CK mapping, IOC identification, and enterprise risk assessment.
+**Cybersecurity Virtual Intern — Datacom (NZ)**  
+SOC-style incident analysis, ransomware case study, MITRE ATT&CK mapping, and enterprise risk assessment.
 
-**🔹 Operating Systems Lab Assistant — UNISSULA**  
-Assisted students with Linux-based systems (Ubuntu & Red Hat), system installation, configuration, and troubleshooting.
+**Operating Systems Lab Assistant — UNISSULA**  
+Linux system administration (Ubuntu & Red Hat), installation, configuration, and troubleshooting.
 
 ---
 
 ## 📜 Certifications
 
-- Incident Response and Digital Forensics  
+- Incident Response & Digital Forensics  
 - Penetration Testing, Threat Hunting, and Cryptography  
 - Certified Cybersecurity Educator Professional  
 - Introduction to Information Security  
-- Generative AI: Introduction and Applications  
+- Generative AI: Introduction & Applications  
 
 ---
 
 ## 📚 Publication
 
 **Comparative Analysis of DDoS Attack Size and Intensity**  
-Case Study on UDP-Lag, LDAP, and Portmap using CIC-DDoS2019 Dataset
+Case study using CIC-DDoS2019 dataset on UDP-Lag, LDAP, and Portmap attacks.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tools & Technologies
 
-<p align="left">
+### Cyber & System
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+### Programming & AI
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="assets/github-contribution.png" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/nabiel-ilyasa-pradana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasbara&show_icons=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasbara&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasbara" />
 </p>
