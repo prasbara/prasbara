@@ -1,107 +1,81 @@
-<h1 align="center">Hi 👋, I'm Naya</h1>
+<h1 align="center">Hi, I'm Naya</h1>
 <h3 align="center">
 Aspiring SOC Analyst | Cybersecurity Enthusiast | Informatics Engineering Undergraduate
 </h3>
 
 <p align="center">
-Building a real-world Security Operations Center (SOC) project powered by AI during my internship.
+Building a Security Operations Center (SOC) project with practical, real-world use cases, integrating cybersecurity operations and applied machine learning during my internship experience.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasbara&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" />
+  <img src="https://img.shields.io/badge/Role-SOC%20Analyst%20Aspirant-informational" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Informatics Engineering Undergraduate — **UNISSULA**
-- 🔐 Focused on **Cybersecurity & SOC Operations**
-- 🛡️ Hands-on experience in **Incident Analysis, Pentesting, and Risk Assessment**
-- 🤖 Applying **Machine Learning & AI** for security and intelligence use cases
-- 📸 Creative background (Photography & Videography) → strong analytical & communication skills
+I am an undergraduate student in Informatics Engineering at Universitas Islam Sultan Agung (UNISSULA) with a strong focus on cybersecurity, particularly in Security Operations Center (SOC) activities. My primary interests include incident detection and response, penetration testing, digital forensics, and risk assessment. I have hands-on experience working with SOC-style incident analysis, vulnerability assessments, and applied machine learning for intelligence and security-related use cases.
 
-> *Live, love, epoch.*
+Alongside my technical background, I have experience in creative production as a freelance photographer and videographer. This has strengthened my analytical thinking, attention to detail, and ability to communicate findings clearly—skills that are highly transferable to security analysis and reporting.
 
 ---
 
-## 🛡️ Cybersecurity & SOC Skills
+## Cybersecurity & SOC Competencies
 
-### 🔹 Blue Team / SOC
-- Security Operations Center (SOC) Workflow  
-- Incident Detection & Analysis  
-- MITRE ATT&CK Mapping  
-- Indicators of Compromise (IOC) Analysis  
-- Incident Response & Digital Forensics  
+My core competencies are centered around blue team and security operations workflows, including monitoring, incident analysis, and response. I am familiar with MITRE ATT&CK methodology for mapping adversary behavior, identifying indicators of compromise, and supporting structured incident handling and reporting.
 
-### 🔹 Offensive Security
-- Penetration Testing (Manual & Automated)  
-- Vulnerability Assessment  
-- Threat Hunting  
-- Risk Assessment  
+On the offensive security side, I have experience assisting with penetration testing activities, vulnerability assessments, and threat hunting exercises, contributing to improved organizational security posture and risk mitigation.
 
-### 🔹 Intelligence & Analysis
-- Open Source Intelligence (OSINT)  
-- Social Media Intelligence  
-- Log Analysis & Security Reporting  
+I also have exposure to intelligence-driven security analysis, including open-source intelligence (OSINT), social media intelligence, log analysis, and technical reporting to support decision-making.
 
 ---
 
-## 🤖 AI & Machine Learning for Security
+## Applied AI & Machine Learning
 
-- Sentiment Analysis & Text Classification  
-- Data Preprocessing & Feature Engineering  
-- Model Training & Evaluation  
-- Security & Intelligence Use Cases  
+I have applied machine learning techniques to real-world problems, particularly in text and sentiment analysis for intelligence use cases. My experience includes data preprocessing, feature engineering, model training, evaluation, and integration into analytical workflows.
 
-**Tools & Frameworks:**
-- Python, Scikit-learn
-- TensorFlow, PyTorch
-- OpenCV
+**Technologies commonly used:**
+Python, Scikit-learn, TensorFlow, PyTorch, OpenCV.
 
 ---
 
-## 💼 Experience Highlights
+## Experience Overview
 
 **AI Engineer — Diskominfo Kota Semarang**  
-Developed ML-based sentiment analysis systems for social media intelligence, including data pipelines, model tuning, and deployment.
+Developed and optimized machine learning models for sentiment analysis on large-scale social media data. Responsibilities included data preprocessing, model fine-tuning, performance evaluation, and integration into analytical pipelines.
 
 **Pentester — Indosat Ooredoo Hutchison**  
-Performed vulnerability assessments, penetration testing, documentation, and remediation recommendations.
+Supported cybersecurity assessment activities through manual and automated penetration testing, vulnerability identification, documentation of findings, and formulation of remediation recommendations.
 
-**Cybersecurity Virtual Intern — Datacom (NZ)**  
-SOC-style incident analysis, ransomware case study, MITRE ATT&CK mapping, and enterprise risk assessment.
+**Cybersecurity Virtual Intern — Datacom (New Zealand)**  
+Participated in SOC-oriented incident analysis scenarios, including ransomware investigations, MITRE ATT&CK mapping, identification of indicators of compromise, and enterprise risk assessment.
 
 **Operating Systems Lab Assistant — UNISSULA**  
-Linux system administration (Ubuntu & Red Hat), installation, configuration, and troubleshooting.
+Assisted in Linux-based system administration labs using Ubuntu and Red Hat, including installation, configuration, and troubleshooting of open-source operating systems.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- Incident Response & Digital Forensics  
+- Incident Response and Digital Forensics  
 - Penetration Testing, Threat Hunting, and Cryptography  
 - Certified Cybersecurity Educator Professional  
 - Introduction to Information Security  
-- Generative AI: Introduction & Applications  
+- Generative AI: Introduction and Applications  
 
 ---
 
-## 📚 Publication
+## Tools & Technologies
 
-**Comparative Analysis of DDoS Attack Size and Intensity**  
-Case study using CIC-DDoS2019 dataset on UDP-Lag, LDAP, and Portmap attacks.
-
----
-
-## 🛠️ Tools & Technologies
-
-### Cyber & System
+**Cybersecurity & Systems**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-### Programming & AI
+**Programming & Machine Learning**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
@@ -112,15 +86,15 @@ Case study using CIC-DDoS2019 dataset on UDP-Lag, LDAP, and Portmap attacks.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
-  <img src="assets/github-contribution.png" alt="GitHub Contribution Graph"/>
+  <img src="assets/github-contribution.png" alt="GitHub Contribution Activity" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/nabiel-ilyasa-pradana" target="_blank">
